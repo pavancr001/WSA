@@ -1,0 +1,12 @@
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\bin\Debug\net6.0\Wsa.FarmersMarket.Core.deps.json
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\bin\Debug\net6.0\Wsa.FarmersMarket.Core.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\bin\Debug\net6.0\Wsa.FarmersMarket.Core.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.csproj.AssemblyReference.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.AssemblyInfoInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.AssemblyInfo.cs
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.csproj.CoreCompileInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\refint\Wsa.FarmersMarket.Core.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\Wsa.FarmersMarket.Core.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Core\obj\Debug\net6.0\ref\Wsa.FarmersMarket.Core.dll

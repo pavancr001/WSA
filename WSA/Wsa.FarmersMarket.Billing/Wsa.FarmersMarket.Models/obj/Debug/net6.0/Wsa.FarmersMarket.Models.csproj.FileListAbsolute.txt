@@ -1,0 +1,15 @@
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\bin\Debug\net6.0\Wsa.FarmersMarket.Models.deps.json
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\bin\Debug\net6.0\Wsa.FarmersMarket.Models.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\bin\Debug\net6.0\Wsa.FarmersMarket.Models.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.csproj.AssemblyReference.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.AssemblyInfoInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.AssemblyInfo.cs
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.csproj.CoreCompileInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\refint\Wsa.FarmersMarket.Models.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\ref\Wsa.FarmersMarket.Models.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\bin\Debug\net6.0\Wsa.FarmersMarket.Core.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\bin\Debug\net6.0\Wsa.FarmersMarket.Core.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.FarmersMarket.Models\obj\Debug\net6.0\Wsa.FarmersMarket.Models.csproj.CopyComplete

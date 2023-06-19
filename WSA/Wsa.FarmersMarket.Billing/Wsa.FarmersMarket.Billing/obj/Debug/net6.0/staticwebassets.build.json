@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NUqikHfqsXgSud6IGvegLQpX0yx7n3dvHNPiBptnK0k=",
+  "Source": "Wsa.FarmersMarket.Billing",
+  "BasePath": "_content/Wsa.FarmersMarket.Billing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

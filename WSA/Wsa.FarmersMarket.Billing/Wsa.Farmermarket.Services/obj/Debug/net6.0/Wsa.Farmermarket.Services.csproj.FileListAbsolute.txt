@@ -1,0 +1,17 @@
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.csproj.AssemblyReference.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.AssemblyInfoInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.AssemblyInfo.cs
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.csproj.CoreCompileInputs.cache
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.Farmermarket.Services.deps.json
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.Farmermarket.Services.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.Farmermarket.Services.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.FarmersMarket.Core.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.FarmersMarket.Models.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.FarmersMarket.Core.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\bin\Debug\net6.0\Wsa.FarmersMarket.Models.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.csproj.CopyComplete
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\refint\Wsa.Farmermarket.Services.dll
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\Wsa.Farmermarket.Services.pdb
+C:\pavan\dev\WSA\Wsa.FarmersMarket.Billing\Wsa.Farmermarket.Services\obj\Debug\net6.0\ref\Wsa.Farmermarket.Services.dll

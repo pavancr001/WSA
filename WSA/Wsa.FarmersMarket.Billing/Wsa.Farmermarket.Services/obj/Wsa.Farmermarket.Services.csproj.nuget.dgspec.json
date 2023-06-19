@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.Farmermarket.Services\\Wsa.Farmermarket.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.Farmermarket.Services\\Wsa.Farmermarket.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.Farmermarket.Services\\Wsa.Farmermarket.Services.csproj",
+        "projectName": "Wsa.Farmermarket.Services",
+        "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.Farmermarket.Services\\Wsa.Farmermarket.Services.csproj",
+        "packagesPath": "C:\\Users\\pavankumarv\\.nuget\\packages\\",
+        "outputPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.Farmermarket.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pavankumarv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj": {
+                "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj"
+              },
+              "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\Wsa.FarmersMarket.Models.csproj": {
+                "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\Wsa.FarmersMarket.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj",
+        "projectName": "Wsa.FarmersMarket.Core",
+        "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj",
+        "packagesPath": "C:\\Users\\pavankumarv\\.nuget\\packages\\",
+        "outputPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pavankumarv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\Wsa.FarmersMarket.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\Wsa.FarmersMarket.Models.csproj",
+        "projectName": "Wsa.FarmersMarket.Models",
+        "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\Wsa.FarmersMarket.Models.csproj",
+        "packagesPath": "C:\\Users\\pavankumarv\\.nuget\\packages\\",
+        "outputPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pavankumarv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj": {
+                "projectPath": "C:\\pavan\\dev\\WSA\\Wsa.FarmersMarket.Billing\\Wsa.FarmersMarket.Core\\Wsa.FarmersMarket.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

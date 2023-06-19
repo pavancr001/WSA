@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wsa.FarmersMarket.Billing.props" />
+</Project>

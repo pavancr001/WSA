@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wsa.FarmersMarket.Models/1.0.0": {
+        "dependencies": {
+          "Wsa.FarmersMarket.Core": "1.0.0"
+        },
+        "runtime": {
+          "Wsa.FarmersMarket.Models.dll": {}
+        }
+      },
+      "Wsa.FarmersMarket.Core/1.0.0": {
+        "runtime": {
+          "Wsa.FarmersMarket.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wsa.FarmersMarket.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wsa.FarmersMarket.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

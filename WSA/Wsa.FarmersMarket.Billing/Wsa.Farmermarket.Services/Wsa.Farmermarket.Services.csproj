@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wsa.FarmersMarket.Core\Wsa.FarmersMarket.Core.csproj" />
+    <ProjectReference Include="..\Wsa.FarmersMarket.Models\Wsa.FarmersMarket.Models.csproj" />
+  </ItemGroup>
+
+</Project>
