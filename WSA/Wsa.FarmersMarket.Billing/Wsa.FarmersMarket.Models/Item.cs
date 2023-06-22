@@ -8,5 +8,6 @@ namespace Wsa.FarmersMarket.Models
         public string ItemType { get; set; }
         public decimal Price { get; set; }
         public decimal DiscountedPrice { get; set; }
+        public string Remarks { get; set; }
     }
 }

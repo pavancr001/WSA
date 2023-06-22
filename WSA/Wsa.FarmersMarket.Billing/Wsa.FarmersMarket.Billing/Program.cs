@@ -13,6 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IRegister, Register>();
 builder.Services.AddScoped<IOfferProcessor, OfferProcessor>();
 builder.Services.AddScoped<IPriceCalculator, PriceCalculator>();
+builder.Services.AddScoped<IMapper, Mapper>();
 
 var app = builder.Build();
 

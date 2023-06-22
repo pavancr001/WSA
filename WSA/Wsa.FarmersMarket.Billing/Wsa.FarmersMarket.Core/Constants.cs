@@ -18,6 +18,6 @@
         public const decimal OatMealPrice = 3.69m;
         public const decimal DiscountPercentage50 = 0.5m;
         public const decimal DiscountedAppleFixedPrice = 4.5m;
-        public const decimal DiscountOnMilkPrice = 4.75m;        
+        public const decimal DiscountOnMilkPrice = 4.75m;            
     }
 }

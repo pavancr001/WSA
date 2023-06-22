@@ -6,6 +6,12 @@ namespace Wsa.Farmermarket.Services.Implementation
 {
     public class OfferProcessor : IOfferProcessor
     {
+        //public Dictionary<string, decimal> Items = new Dictionary<string, decimal>() {
+        //    {"CF1", 11.23m },
+        //    {"AP1", 6.0m },
+        //    {"CH1", 3.11m },
+        //    {"OM1", 3.690m },
+        //    {"MK1", 4.75m }};
         public void ApplyOffer(string offerCode, List<Item> purchasedItems)
         {
             bool isApplicable = IsOfferApplicable(offerCode, purchasedItems);
@@ -79,7 +85,7 @@ namespace Wsa.Farmermarket.Services.Implementation
             for (int index = 0; index < coffeeItems.Count; index++)
             {
                 if (index.IsOdd()) { coffeeItems[index].OfferCode = Constants.OfferCodeBOGO; }
-            }            
+            }
         }
 
         public void ApplyApplesPriceDropOffer(List<Item> purchasedItems)

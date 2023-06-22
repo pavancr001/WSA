@@ -9,15 +9,18 @@ namespace Wsa.FarmersMarket.Billing.Controllers
     public class BillController : ControllerBase
     {
         private readonly IRegister _register;
-        public BillController(IRegister register)
+        private readonly IMapper _mapper;
+        public BillController(IRegister register, IMapper mapper)
         {
             _register = register;
+            _mapper = mapper;
         }
 
         [HttpPost(Name = "GetBill")]
-        public Tuple<decimal, IList<Item>> Get([FromBody] List<string> purchasedItems)
+        public ItemisedBillResponse Get([FromBody] List<string> purchasedItems)
         {
-            return _register.CalculateTotalPrice(purchasedItems);
+            var calculatedItems = _register.CalculateTotalPrice(purchasedItems);
+            return _mapper.Map(calculatedItems);
         }
     }
 }

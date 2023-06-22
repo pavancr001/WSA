@@ -73,6 +73,10 @@ namespace Wsa.Farmermarket.Services.Implementation
                         item.Price = Constants.OatMealPrice;
                         Console.WriteLine($"Oatmeal with price {Constants.OatMealPrice} has been added");
                         break;
+
+                    default:
+                        item.Remarks = "Item does not exist in the store";
+                        break;
                 }
 
                 // Common logic after applying discounts or adding items
